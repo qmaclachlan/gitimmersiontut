@@ -1,5 +1,6 @@
 
-# Default is " World"
+# Default is World
+# Author: Quinton (quinton@websmithis.com)
 
 name = ARGV.first || "World"
 
